@@ -13,7 +13,7 @@ a{
 
 h1 {
     letter-spacing: 0;
-    text-shadow: 2px 2px red;
+    text-shadow: 2px 2px 5px red;
 }
 
 li{
