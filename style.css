@@ -16,6 +16,7 @@ h1 {
     text-shadow: 2px 2px 5px red;
     font-family: 'Roboto', sans-serif;
     border: 5px solid red;
+    border-radius: 5px;
 }
 
 li{
