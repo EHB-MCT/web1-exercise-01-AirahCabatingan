@@ -31,3 +31,11 @@ p{
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;900&display=swap');
+
+.recept>ul{
+    background-color: red;
+}
+
+h2~ul{
+    background-color: yellow;
+}
