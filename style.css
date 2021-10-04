@@ -1,7 +1,16 @@
 body {
     background-image: url(images/geometric-leaves.png);
+    background-attachment: fixed;
 }
 
 h2 {
     color: blue;
+}
+
+a{
+    text-decoration: underline;
+}
+
+h1 {
+    letter-spacing: 0;
 }
