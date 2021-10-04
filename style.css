@@ -14,6 +14,7 @@ a{
 h1 {
     letter-spacing: 0;
     text-shadow: 2px 2px 5px red;
+    font-family: 'Roboto', sans-serif;;
 }
 
 li{
@@ -24,3 +25,5 @@ li{
 p{
     font-family: 'Courier New', Courier, monospace;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;900&display=swap');
