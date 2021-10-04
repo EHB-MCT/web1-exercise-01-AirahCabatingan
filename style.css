@@ -13,4 +13,10 @@ a{
 
 h1 {
     letter-spacing: 0;
+    text-shadow: 2px 2px red;
+}
+
+li{
+    line-height: 2;
+    word-spacing: 0px;
 }
